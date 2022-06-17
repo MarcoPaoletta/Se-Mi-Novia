@@ -4,7 +4,7 @@
 
 ---
 
-# Script [NoButton](https://github.com/MarcoPaoletta/Escape-The-Toaster/blob/main/Assets/Scripts/NoButton.cs)
+# Script [NoButton](https://github.com/MarcoPaoletta/Se-Mi-Novia/blob/main/Assets/Scripts/NoButton.cs)
 <img src="README/ChangePosition.png"/>
 
 * Declaramos variables para los valores entre los cuales vamos a posicionar el boton una vez sea tocado
